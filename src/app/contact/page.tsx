@@ -107,7 +107,7 @@ export default function ContactPage() {
                   { 
                     title: 'LinkedIn', 
                     value: 'rashini-lakshika', 
-                    img: '/images/contact/Linkedin.png' 
+                    img: '/images/contact/LinkedIn.png' 
                   },
                   { 
                     title: 'Location', 
