@@ -376,7 +376,7 @@ export default function HomePage() {
               </div>
               <div className="space-y-6">
                 {[
-                  { year: '2024-2026', title: 'Easton Campus', subtitle: 'BIT' },
+                  { year: '2024-2026', title: 'Eurasion Campus', subtitle: 'BIT' },
                   { year: '2023-2024', title: 'University of Colombo', subtitle: 'Foundation' },
                   { year: '2011-2022', title: "Newstead Girls' College", subtitle: 'O/L - 7As 2B' },
                 ].map((item, index) => (
