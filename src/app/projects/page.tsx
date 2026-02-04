@@ -26,13 +26,6 @@ export default function ProjectsPage() {
       categories: ['UX/UI Design', 'Website Design'],
     },
     {
-      title: 'Analytics Dashboard',
-      tags: ['Dashboard', 'UI Design', 'Data Visualization'],
-      description: 'Created an intuitive analytics dashboard for business intelligence. Focused on presenting complex data in an easily digestible format with interactive charts and filters.',
-      image: '',
-      categories: ['Dashboard', 'UI Design'],
-    },
-    {
       title: 'University Timetable Dashboard',
       tags: ['Dashboard', 'UI Design', 'Data Visualization'],
       description: 'University Timetable Dashboard is a web-based dashboard designed to display university class schedules in a clear and organized way, helping students easily view and manage their daily lectures and sessions.',
